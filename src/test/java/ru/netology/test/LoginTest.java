@@ -1,4 +1,4 @@
-package ru.netology.Test;
+package ru.netology.test;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeEach;
